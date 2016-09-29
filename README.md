@@ -1,1 +1,1 @@
-# --tester
+# kanji-tester
